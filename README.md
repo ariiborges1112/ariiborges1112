@@ -27,7 +27,7 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um Dev. B
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
-### LinkedIn
+## LinkedIn
 
 <div data-importer="socials" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
