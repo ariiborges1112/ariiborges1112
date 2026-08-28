@@ -13,6 +13,7 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um Dev. B
 </p>
 
 
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
