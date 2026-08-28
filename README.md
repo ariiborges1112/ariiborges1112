@@ -8,7 +8,6 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um desenv
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula" height="180" alt="Linguagens mais usadas" />
   <img src="https://github-stats-extended.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula" height="180" alt="Estatísticas Ari Borges" />
 </p>
----
 
 
 ## 🛠️ Tecnologias & Ferramentas
