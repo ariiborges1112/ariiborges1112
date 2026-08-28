@@ -1,5 +1,5 @@
 ### Olá, eu sou o Ari Borges
-Universitario de Sistemas de Informação na UFC e focado em se tornar um desenvolvedor Backend
+Universitario de Sistemas de Informação na UFC e focado em se tornar um Dev. Backend
 ###
 
 ### 📊 Estatísticas do GitHub
@@ -21,5 +21,9 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um desenv
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouzaq/maurodesouzaq/snake-output/snake.svg" alt="Snake animation" />
 
 ###
