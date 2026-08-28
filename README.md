@@ -27,13 +27,7 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um Dev. B
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariiborges1112/ariiborges1112/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariiborges1112/ariiborges1112/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ariiborges1112/ariiborges1112/output/github-contribution-grid-snake.svg">
-</picture>
+### LinkedIn
 
 <div data-importer="socials" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
