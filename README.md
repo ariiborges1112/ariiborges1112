@@ -1,7 +1,7 @@
 ### Olá!!! Meu nome é Ari Borges
 Universitario de Sistemas de Informação na UFC e focado em se tornar um Dev. Backend
 ###
-
+##
 ### 📊 Estatísticas do meu GitHub
 <p align="center">
   <a href="https://github.com/ariiborges1112">
