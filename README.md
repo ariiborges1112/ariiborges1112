@@ -2,8 +2,8 @@
 Universitario de Sistemas de Informação na UFC e focado em se tornar um desenvolvedor Backend
 ###
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?ariiborges1112&show_icons=true&theme=radial)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?ariiborges1112&layout=compact&theme=radial)
 
 
 ## 🛠️ Tecnologias & Ferramentas
