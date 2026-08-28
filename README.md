@@ -4,8 +4,9 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um desenv
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Followers](https://img.shields.io/github/followers/ariiborges1112?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/ariiborges1112)
-[![GitHub Repositories](https://img.shields.io/badge/Repositórios_Públicos-Ver_Perfil-blue?style=for-the-badge&logo=github)](https://github.com/ariiborges1112?tab=repositories)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula)
+
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula)
 
 ---
 
