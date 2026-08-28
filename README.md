@@ -1,13 +1,13 @@
-### Olá, eu sou o Ari Borges
+### Olá, meu nome é Ari Borges
 Universitario de Sistemas de Informação na UFC e focado em se tornar um Dev. Backend
 ###
 
 ### 📊 Estatísticas do GitHub
-
+<div>
 ![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula)
 
 ![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula)
-
+</div>
 ## 🛠️ Tecnologias & Ferramentas
 
 <div data-importer="techs" align="left">
