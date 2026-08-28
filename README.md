@@ -4,9 +4,9 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um desenv
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://vercel.app" alt="Linguagens mais usadas" />
-</div>
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula)
+
+![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula)
 
 ---
 
