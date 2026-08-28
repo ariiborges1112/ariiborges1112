@@ -27,7 +27,7 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um Dev. B
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
-## LinkedIn
+## Rede Social
 
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/arimateia-borges/" target="_blank">
