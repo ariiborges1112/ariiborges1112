@@ -30,8 +30,9 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um Dev. B
 ## LinkedIn
 
 <div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/arimateia-borges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-target="_blank></a>
+  <a href="https://www.linkedin.com/in/arimateia-borges/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ###
