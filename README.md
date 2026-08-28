@@ -8,7 +8,7 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um Dev. B
     <img style="height: 160px;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
   </a>
   <a href="https://github.com/ariiborges1112">
-    <img style="height: 160px;" src="https://github-stats-extended.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+    <img style="height: 160px;" src="https://github-stats-extended.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula&hide_rank=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
   </a>
 </p>
 
