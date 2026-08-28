@@ -4,9 +4,13 @@ Universitario de Sistemas de Informação na UFC e focado em se tornar um desenv
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.api.sheer.gg/api?username=ariiborges1112&show_icons=true&theme=dracula" alt="Estatísticas Ari Borges" />
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.api.sheer.gg/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
