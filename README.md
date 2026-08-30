@@ -1,5 +1,5 @@
-### Olá!!! Meu nome é Ari Borges
-Universitário de Sistemas de Informação na UFC e focado em se tornar um Dev. Backend
+### Hi! I'm Ari Borges
+Information Systems student at UFC, focused on becoming a Backend Developer
 ###
 ##
 ### 📊 Estatísticas do meu GitHub
