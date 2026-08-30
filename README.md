@@ -2,7 +2,7 @@
 Information Systems student at UFC, focused on becoming a Backend Developer
 ###
 ##
-### 📊 Estatísticas do meu GitHub
+### 📊 My GitHub statistics
 <p align="center">
   <a href="https://github.com/ariiborges1112">
     <img style="height: 150px;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula&card_width=300" alt="Linguagens mais usadas" />
