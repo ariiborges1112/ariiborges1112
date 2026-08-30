@@ -1,5 +1,5 @@
 ### Hi! I'm Ari Borges
-Information Systems student at UFC, focused on becoming a Backend Developer
+Information Systems student at UFC, focusing on backend development
 ###
 ##
 ### 📊 My GitHub statistics
