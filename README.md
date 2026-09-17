@@ -3,14 +3,11 @@ Information Systems student at UFC, focusing on backend development
 ###
 ##
 ### 📊 My GitHub statistics
-<p align="center">
-  <a href="https://github.com/ariiborges1112">
-    <img style="height: 150px;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula&card_width=300" alt="Linguagens mais usadas" />
-  </a>
-  <a href="https://github.com/ariiborges1112">
-    <img style="height: 150px;" src="https://github-stats-extended.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula&cache_seconds=1800" alt="Estatísticas do GitHub" />
-  </a>
-</p>
+<div>
+  <a href="https://github.com/ariiborges1112">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 
 
