@@ -9,9 +9,9 @@ Information Systems student at UFC, focusing on backend development
     <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ariiborges1112&layout=compact&theme=dracula"/>
   </a>
 </div>
-
+##
 ###
-
+##
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
