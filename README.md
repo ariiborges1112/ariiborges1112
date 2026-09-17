@@ -12,6 +12,8 @@ Information Systems student at UFC, focusing on backend development
 
 ###
 
+<h3 data-importer="text" align="left">🛠 Linguagens e Ferramentas</h3>
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
