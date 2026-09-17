@@ -5,7 +5,7 @@ Information Systems student at UFC, focusing on backend development
 ### 📊 My GitHub statistics
 <div>
   <a href="https://github.com/ariiborges1112">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=ariiborges1112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ariiborges1112&langs_count=5&theme=dracula"/>
   </a>
 </div>
